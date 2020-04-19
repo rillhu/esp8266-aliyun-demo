@@ -2,7 +2,7 @@
 # This is a project Makefile. It is assumed the directory this Makefile resides in is a
 # project subdirectory.
 #
-PROJECT_NAME := smart_plug
+PROJECT_NAME := smart_light
 
 EXTRA_COMPONENT_DIRS := $(realpath ../../../components/esp-aliyun/)
 
