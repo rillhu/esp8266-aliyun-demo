@@ -1,0 +1,6 @@
+key,type,encoding,value
+aliyun-key,namespace,,
+DeviceName,data,string,smartlock1
+DeviceSecret,data,string,tZwliLGbl652k3aQCKRFapTxkNkOrVgY
+ProductKey,data,string,a1n5u6ES5W2
+ProductSecret,data,string,Zv9OZ2Ca6PE8eYCD

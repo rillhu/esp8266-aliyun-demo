@@ -1,3 +1,13 @@
+#ignore#
+/**/build/
+/**/*.si4project/
+/**/sdkconfig
+/**/sdkconfig.ci
+/**/sdkconfig.old
+.vscode/
+/**/.vscode/
+
+
 # Prerequisites
 *.d
 
@@ -50,3 +60,5 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+

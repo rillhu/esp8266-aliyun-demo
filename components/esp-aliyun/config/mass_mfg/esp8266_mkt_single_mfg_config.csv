@@ -1,0 +1,6 @@
+key,type,encoding,value
+aliyun-key,namespace,,
+DeviceName,data,string,mktlight
+DeviceSecret,data,string,AwnikmpzWOl7zzO3VvoznZO2GgTFVKXu
+ProductKey,data,string,a1E4zMPcOV9
+ProductSecret,data,string,1gkDztcGzhfOQVCm
